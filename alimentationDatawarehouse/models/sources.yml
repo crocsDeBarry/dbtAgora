@@ -1,0 +1,9 @@
+version: 2
+sources:
+  - name: ODS  # Le nom du schéma ou source
+    database: projet-bi-isen  # Le nom de la base de données (dans BigQuery)
+    schema: ODS  # Le schéma où la table f_commandeInternet se trouve
+    tables:
+      - name: f_commandeInternet
+      - name: f_approvisionnement
+      - name: f_listeProduction
