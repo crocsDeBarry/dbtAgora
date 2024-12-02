@@ -1,2 +1,2 @@
 # dbtAgora
-dbt du projet de BI
+dbt du projet de BI du groupe 7
